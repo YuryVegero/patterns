@@ -1,3 +1,5 @@
+https://www.patterns.dev/posts/prototype-pattern/
+
 The prototype pattern is a useful way to share properties among many objects of the same type. The prototype is an object that's native to JavaScript, and can be accessed by objects through the prototype chain.
 
 Let's say we want to create many dogs! In our example, dogs can't do that much: they simply have a name, and they can bark!
