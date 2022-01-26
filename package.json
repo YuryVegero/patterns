@@ -1,0 +1,28 @@
+{
+  "name": "patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "singleton": "babel-node ./js/singleton/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuryVegero/patterns.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuryVegero/patterns/issues"
+  },
+  "homepage": "https://github.com/YuryVegero/patterns#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
