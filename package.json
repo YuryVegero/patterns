@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "singleton": "babel-node ./js/singleton/index.js"
+    "singleton": "babel-node ./js/singleton/index.js",
+    "prototype": "babel-node ./js/prototype/index.js"
   },
   "repository": {
     "type": "git",
