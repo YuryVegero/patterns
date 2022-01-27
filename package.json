@@ -7,6 +7,7 @@
     "singleton": "babel-node js/creational/singleton/index.js",
     "prototype": "babel-node js/creational/prototype/index.js",
     "proxy": "babel-node js/structural/proxy/index.js",
+    "flyweight": "babel-node js/structural/flyweight/index.js",
     "mediator": "babel-node js/behavioral/mediator/index.js"
   },
   "repository": {
