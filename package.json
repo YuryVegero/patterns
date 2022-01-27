@@ -6,6 +6,9 @@
   "scripts": {
     "singleton": "babel-node js/creational/singleton/index.js",
     "prototype": "babel-node js/creational/prototype/index.js",
+    "simple-factory": "babel-node js/creational/factory/simple-factory/index.js",
+    "factory-method": "babel-node js/creational/factory/factory-method/index.js",
+    "abstract-factory": "babel-node js/creational/factory/abstract-factory/index.js",
     "proxy": "babel-node js/structural/proxy/index.js",
     "flyweight": "babel-node js/structural/flyweight/index.js",
     "mediator": "babel-node js/behavioral/mediator/index.js"
