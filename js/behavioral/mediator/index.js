@@ -1,5 +1,5 @@
-import { Participant } from './Participant';
-import { Chatroom } from './Chatroom';
+import { Participant } from 'js/behavioral/mediator/Participant';
+import { Chatroom } from 'js/behavioral/mediator/Chatroom';
 
 const john = new Participant('John');
 const dave = new Participant('Dave');
