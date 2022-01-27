@@ -6,7 +6,8 @@
   "scripts": {
     "singleton": "babel-node ./js/singleton/index.js",
     "prototype": "babel-node ./js/prototype/index.js",
-    "proxy": "babel-node ./js/proxy/index.js"
+    "proxy": "babel-node ./js/proxy/index.js",
+    "mediator": "babel-node ./js/mediator/index.js"
   },
   "repository": {
     "type": "git",
