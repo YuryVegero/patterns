@@ -11,7 +11,8 @@
     "abstract-factory": "babel-node js/creational/factory/abstract-factory/index.js",
     "proxy": "babel-node js/structural/proxy/index.js",
     "flyweight": "babel-node js/structural/flyweight/index.js",
-    "mediator": "babel-node js/behavioral/mediator/index.js"
+    "mediator": "babel-node js/behavioral/mediator/index.js",
+    "command": "babel-node js/behavioral/command/index.js"
   },
   "repository": {
     "type": "git",
