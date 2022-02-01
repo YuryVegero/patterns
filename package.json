@@ -15,7 +15,7 @@
     "flyweight": "babel-node js/structural/flyweight/index.js",
     "adapter": "babel-node js/structural/adapter/index.js",
     "mediator": "babel-node js/behavioral/mediator/index.js",
-    "command": "babel-node js/behavioral/command/index.js"
+    "command": "babel-node js/behavioral/command/other_example/index.js"
   },
   "repository": {
     "type": "git",
