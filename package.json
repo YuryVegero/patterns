@@ -14,6 +14,7 @@
     "proxy": "babel-node js/structural/proxy/index.js",
     "flyweight": "babel-node js/structural/flyweight/index.js",
     "adapter": "babel-node js/structural/adapter/index.js",
+    "decorator": "babel-node js/structural/decorator/index.js",
     "mediator": "babel-node js/behavioral/mediator/index.js",
     "command": "babel-node js/behavioral/command/other_example/index.js",
     "chain-of-responsibility": "babel-node js/behavioral/chain-of-responsibility/index.js"
