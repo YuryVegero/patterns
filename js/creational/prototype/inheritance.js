@@ -10,9 +10,9 @@ const Dog = function (name) {
   Animal.apply(this, arguments);
 };
 
-Dog.prototype.constructor = Dog;
-Dog.prototype = Object.create(Animal.prototype);
 
+Dog.prototype = Object.create(Animal.prototype);
+Dog.prototype.constructor = Dog;
 
 const dog = new Dog("Bob");
 dog.say();
