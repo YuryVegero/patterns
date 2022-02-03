@@ -18,7 +18,8 @@
     "facade": "babel-node js/structural/facade/index.js",
     "mediator": "babel-node js/behavioral/mediator/index.js",
     "command": "babel-node js/behavioral/command/other_example/index.js",
-    "chain-of-responsibility": "babel-node js/behavioral/chain-of-responsibility/index.js"
+    "chain-of-responsibility": "babel-node js/behavioral/chain-of-responsibility/index.js",
+    "iterator": "babel-node js/behavioral/iterator/index.js"
   },
   "repository": {
     "type": "git",
